@@ -23,9 +23,6 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg" # filename of your avatar image placed in /images/, e.g. "profile.png"
-  avatar_width     : "400" # width of the avatar image in pixels, e.g. 400
-  avatar_height    : "400" # height of the avatar image in pixels, e.g. 400
-  avatar_shape     : "square" # circle, square 
   name             : "Jinmu Kim" # name to display in the sidebar
   title            : "Postdoctoral Research Associate"    
   pronouns         : "he/him"  
